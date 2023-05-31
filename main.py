@@ -5,8 +5,8 @@ import time
 
 MY_LAT = 53.408371  # Your latitude
 MY_LONG = -2.991573  # Your longitude
-MY_EMAIL = "pythontesting1111@gmail.com"
-PASSWORD = "yvduawqkmfyzzplr"
+MY_EMAIL = "" # Enter email here
+PASSWORD = "" # Enter password here
 GMAIL_SMTP = "smtp.gmail.com"
 
 
